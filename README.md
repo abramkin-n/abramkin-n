@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Привет, меня зовут Николай 👋
+#  Hello, I'm  Nikolay 👋
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ### :man_technologist: Обо мне:
 - 👀 Аналитик данных с любовью к спорту и постоянному личностному росту.
-- 🫡 Активно продолжаю свое обучение по направлениям: Python, SQL, pandas, numpy и статистика.
+- 📚 Активно продолжаю свое обучение по направлениям: Python, SQL, Pandas, NumPy и статистика.
 - 🔍 Выявляю скрытые закономерностей в данных.
-- 📣 Делею данные говорящими.
-- ✍🏼 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/abramkin_n)
+- 📣 Делаю данные говорящими.
+- 📲 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/abramkin_n)
 
 
 ### :hammer_and_wrench: Языки и инструменты :
@@ -32,10 +32,15 @@
   <img src="https://img.shields.io/badge/Superset-black?logo=Superset&s&logoColor=white&style=for-the-badge" title="Superset" alt="Superset" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-black?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  
-  
 </div>
 
+###  🫡 Ключевые навыки:
+- Анализ данных с использованием Python;
+- Работа с базами данных, написание сложных SQL-запросов;
+- Визуализация данных;
+- Организация ETL-процессов;
+- Работа над проектами в системе контроля версий git;
+- Формирование и актуализация отчетности.
 <!---
 abramkin-n/abramkin-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
