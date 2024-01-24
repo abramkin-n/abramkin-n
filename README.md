@@ -31,7 +31,10 @@
   <img src="https://img.shields.io/badge/redash-black?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Superset-black?logo=Superset&s&logoColor=white&style=for-the-badge" title="Superset" alt="Superset" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-black?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Apache Airflow-black?logo=Apache Airflow&style=for-the-badge" title="Apache Airflow" alt="Apache Airflow" height="40"/>&nbsp;
+
+
+
 </div>
 
 ###  🫡 Ключевые навыки:
