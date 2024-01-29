@@ -44,6 +44,15 @@
 - Организация ETL-процессов;
 - Работа над проектами в системе контроля версий git;
 - Формирование и актуализация отчетности.
+
+
+
+|Название проекта|Ссылка|
+|----------------|-----------------|
+|Система мониторинга и формирования отчетов по ключевым метрикам | [GitHub](https://github.com/abramkin-n/daily-report-telegram) |
+|Модель для предсказания стоимости продажи автомобиля на вторичном рынке (Kaggle) | [GitHub](https://github.com/abramkin-n/kaggle-used-cars-price-prediction) |
+|Cистема алертов (поиск аномалий) | [GitHub](https://github.com/abramkin-n/alert-system) |
+
 <!---
 abramkin-n/abramkin-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
